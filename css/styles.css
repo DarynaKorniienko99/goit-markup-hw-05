@@ -42,7 +42,7 @@ img {
 }
 
 .page-navigation {
-    display: flex;
+    display: block;
     align-items: center;
 }
 .menu-list {
@@ -693,6 +693,9 @@ color: var(--NAVY-BLUE, #2E2F42);
     border: none;
     fill: #f4f4fd;
 }
+
+
+
 .checkbox-text {
     color: #8e8f99;
     font-size: 12px;
